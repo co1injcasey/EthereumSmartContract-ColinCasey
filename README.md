@@ -8,7 +8,7 @@ Type "yarn start"
 
 ### SMART CONTRACT DEPLOYMENT 
 
-Open a New Admin Powershell, Cd into project diretory 
+Open a New Admin Powershell, Cd into project directory 
 Type "truffle develop" 
 This will connect the project to the Existing Truffle Session at localhost:9545 
 In the truffle develop powershell, type "compile", then after contracts are compiled, type "migrate"
